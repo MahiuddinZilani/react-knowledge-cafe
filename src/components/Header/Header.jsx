@@ -1,8 +1,11 @@
+import profile from '../../assets/profile.png';
+
 const Header = () => {
     return (
-        <div>
+        <header className='flex justify-between items-center p-4 my-4 mx-6 border-b-4'>
             <h1 className='text-6xl font-bold'>Vite + React</h1>
-        </div>
+            <img src={profile} alt="" />
+        </header>
     );
 };
 
