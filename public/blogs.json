@@ -1,0 +1,103 @@
+[   
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/PNWm8mb/cvr-01-unsplash.jpg",
+      "title": "The Adventure Begins",
+      "author": "john_doe",
+      "authorImg": "https://i.ibb.co/sVJfV1c/author-01-freepik.jpg",
+      "postedDate": 1631510400,
+      "readingTime": 30,
+      "hashTags": ["adventure", "story"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/4WQ8BJN/cvr-02-unsplash.jpg",
+      "title": "Cooking Mastery",
+      "author": "jane_smith",
+      "authorImg": "https://i.ibb.co/5nzdzJJ/author-02-freepik.jpg",
+      "postedDate": 1631596800,
+      "readingTime": 45,
+      "hashTags": ["cooking", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/ZKj62Gv/cvr-03-unsplash.jpg",
+      "title": "Tech Trends 2023",
+      "author": "tech_guru",
+      "authorImg": "https://i.ibb.co/yyH14yT/author-03-freepik.jpg",
+      "postedDate": 1631683200,
+      "readingTime": 25,
+      "hashTags": ["technology", "trends"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/YWBgyyZ/cvr-04-unsplash.jpg",
+      "title": "Fitness Tips",
+      "author": "fit_life",
+      "authorImg": "https://i.ibb.co/0ZqRvrV/author-04-freepik.jpg",
+      "postedDate": 1631769600,
+      "readingTime": 20,
+      "hashTags": ["fitness", "health"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/gJ5HhBx/cvr-05-unsplash.jpg",
+      "title": "Travel Diary",
+      "author": "wanderlust",
+      "authorImg": "https://i.ibb.co/0jHrmvW/author-05-freepik.jpg",
+      "postedDate": 1631856000,
+      "readingTime": 40,
+      "hashTags": ["travel", "adventure"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/qWmppq5/cvr-06-unsplash.jpg",
+      "title": "Finance Insights",
+      "author": "money_master",
+      "authorImg": "https://i.ibb.co/r0d5fgX/author-06-freepik.jpg",
+      "postedDate": 1631942400,
+      "readingTime": 35,
+      "hashTags": ["finance", "investing"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/61b2mz3/cvr-07-unsplash.jpg",
+      "title": "Art Appreciation",
+      "author": "art_lover",
+      "authorImg": "https://i.ibb.co/txD8H23/author-07-freepik.jpg",
+      "postedDate": 1632028800,
+      "readingTime": 15,
+      "hashTags": ["art", "culture"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/Mf60PKz/cvr-08-unsplash.jpg",
+      "title": "Science Wonders",
+      "author": "science_geek",
+      "authorImg": "https://i.ibb.co/yP18TN5/author-08-freepik.jpg",
+      "postedDate": 1632115200,
+      "readingTime": 50,
+      "hashTags": ["science", "wonders"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/XbXMnTq/cvr-09-unsplash.jpg",
+      "title": "Gardening Tips",
+      "author": "green_thumb",
+      "authorImg": "https://i.ibb.co/fkqkvdr/author-09-freepik.jpg",
+      "postedDate": 1632201600,
+      "readingTime": 28,
+      "hashTags": ["gardening", "plants"]
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/FV3J5vp/cvr-10-unsplash.jpg",
+      "title": "History Uncovered",
+      "author": "history_buff",
+      "authorImg": "https://i.ibb.co/5FRcQdC/author-10-freepik.jpg",
+      "postedDate": 1632288000,
+      "readingTime": 40,
+      "hashTags": ["history", "discoveries"]
+    }
+  ]
+  
